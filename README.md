@@ -1,4 +1,4 @@
-# MSP Endpoint Security & Compliance Auditor
+# Endpoint Security & Compliance Auditor
 
 ## Business Case
 MSPs manage hundreds of client machines and must ensure they comply with basic security standards. Manually checking if firewalls are on, antivirus is active, and disks aren't full takes too much time. This automated script gathers vital machine metrics, runs a security health check, flags non-compliant settings, and outputs an audit report used to update client tickets.
